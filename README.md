@@ -1,6 +1,6 @@
 ## Toggle Loudness Equalization
 
-### Python script to toggle Windows LE on when a certain app is running. Useful for games with loud gunshots to save hearing eg. PUBG.
+### Python script to toggle Windows LE on when a certain app is running. Useful for games with loud gunshots to save your hearing eg. PUBG.
 
 ### Usage:
 
